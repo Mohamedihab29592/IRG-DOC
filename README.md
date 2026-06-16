@@ -202,7 +202,6 @@ Fill .docx template with form data + image
 
 ---
 
-<p align="center">
-  <sub>Internal tool — Vodafone Egypt Security Operations Center &nbsp;|&nbsp; Not for public distribution</sub>
-</p>
-# IRG-DOC
+<div align="center">
+  <sub>Built for Vodafone Egypt — Internal Use Only</sub>
+</div>
